@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryWithWight">#FFFFFF</color>
+    <color name="colorPrimary">#f9f9fb</color>
+    <color name="colorPrimaryDark">#e4e8e9</color>
+    <color name="colorAccent">#1070e0</color>
+    <color name="colorAccentGrey">#f9f9fb</color>
+    <color name="colorStatuBar1">#870100</color>
+    <color name="colorStatuBar2">#480100</color>
+    <color name="colorNavBar2">#011501</color>
+    <color name="colorStatuBar3">#a98d00</color>
+</resources>
